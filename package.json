@@ -1,0 +1,22 @@
+{
+  "name": "Dashboard_Fetcher2",
+  "version": "1.0.1",
+  "dependencies": {
+    "async": "^2.5.0",
+    "aws-serverless-express": "^3.3.5",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "csv": "^2.0.0",
+    "dotenv": "^4.0.0",
+    "elasticsearch": "^15.1.1",
+    "express": "^4.16.2",
+    "lambda": "^0.10.3",
+    "lodash": "^4.17.5",
+    "moment": "^2.19.1",
+    "request": "^2.88.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "claudia": "^3.3.1"
+  }
+}

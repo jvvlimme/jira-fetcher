@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "Dashboard_Fetcher2-executor",
+    "name": "Dashboard_Fetcher2",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "6i27uvvjbf"
+  }
+}
